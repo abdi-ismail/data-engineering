@@ -1,0 +1,307 @@
+StoreKey,GeographyKey,StoreType,StoreName,Status,CloseReason,EmployeeCount,SellingAreaSize
+1,693,"Store","Contoso Seattle No.1 Store","On","",17,462
+2,693,"Store","Contoso Seattle No.2 Store","On","",25,700
+3,856,"Store","Contoso Kennewick Store","On","",26,680
+4,424,"Store","Contoso Bellevue Store","On","",19,455
+5,677,"Store","Contoso Redmond Store","On","",33,560
+6,575,"Store","Contoso Yakima Store","On","",47,1125
+7,838,"Store","Contoso Granger Store","On","",22,500
+8,935,"Store","Contoso Sunnyside Store","On","",17,460
+9,941,"Store","Contoso Toppenish Store","On","",25,700
+10,947,"Store","Contoso Wapato Store","On","",25,700
+11,813,"Store","Contoso Cle Elum Store","On","",26,680
+13,930,"Store","Contoso Snoqualmie Store","On","",33,560
+14,825,"Store","Contoso Fall City Store","On","",47,1125
+15,678,"Store","Contoso Renton Store","On","",22,500
+16,627,"Store","Contoso Everett Store","On","",17,462
+17,551,"Store","Contoso Spokane Store","On","",25,700
+18,944,"Store","Contoso Veradale Store","On","",26,680
+20,824,"Store","Contoso Englewood Store","On","",33,560
+21,950,"Store","Contoso Wheat Ridge Store","On","",47,1125
+22,571,"Store","Contoso Westminster Store","On","",22,500
+23,836,"Store","Contoso Grand Junction Store","On","",17,460
+24,887,"Store","Contoso New Castle Store","On","",25,700
+25,839,"Store","Contoso Greeley  No.1 Store","On","",25,700
+26,867,"Store","Contoso Loveland Store","On","",26,680
+27,859,"Store","Contoso Lafayette Store","On","",19,455
+28,809,"Store","Contoso Castle Rock Store","On","",33,560
+30,829,"Store","Contoso Fort Collins Store","On","",22,500
+31,839,"Store","Contoso Greeley No.2 Store","On","",17,462
+32,877,"Store","Contoso Milliken Store","On","",25,700
+33,799,"Store","Contoso Berthoud Store","On","",26,680
+34,818,"Store","Contoso Denver No.1 Store","On","",26,680
+35,818,"Store","Contoso Denver No.2 Store","On","",19,455
+36,818,"Store","Contoso Denver No.3 Store","On","",33,560
+37,803,"Store","Contoso Boulder Store","On","",47,1125
+38,940,"Store","Contoso Thornton Store","On","",22,500
+39,865,"Store","Contoso Littleton Store","On","",17,462
+40,790,"Store","Contoso Aurora Store","On","",25,700
+41,904,"Store","Contoso Parker Store","On","",26,680
+42,840,"Store","Contoso Green Bay Store","On","",19,455
+43,786,"Store","Contoso Appleton Store","On","",33,560
+44,874,"Store","Contoso Menasha Store","On","",47,1125
+45,901,"Store","Contoso Oshkosh Store","On","",22,500
+46,827,"Store","Contoso Fond du Lac Store","On","",17,460
+47,878,"Store","Contoso Milwaukee No.1 Store","On","",25,700
+49,878,"Store","Contoso Milwaukee No.3 Store","On","",26,680
+50,949,"Store","Contoso Waukesha No.1 Store","On","",19,455
+51,918,"Store","Contoso Racine No.1 Store","On","",33,560
+52,806,"Store","Contoso Burlington Store","On","",47,1125
+53,821,"Store","Contoso East Troy Store","On","",22,500
+54,949,"Store","Contoso Waukesha No.2 Store","On","",17,462
+55,835,"Store","Contoso Germantown Store","On","",25,700
+57,913,"Store","Contoso Port Washington Store","On","",26,680
+58,928,"Store","Contoso Sheboygan Store","On","",19,455
+59,871,"Store","Contoso Manitowoc Store","On","",33,560
+60,870,"Store","Contoso Madison Store","On","",47,1125
+61,898,"Store","Contoso Oregon Store","On","",22,500
+63,822,"Store","Contoso Edgerton Store","On","",25,700
+64,828,"Store","Contoso Fort Atkinson Store","On","",26,680
+65,918,"Store","Contoso Racine No.2 Store","On","",19,455
+66,849,"Store","Contoso Houston No.1 Store","On","",33,560
+67,849,"Store","Contoso Houston No.2 Store","On","",47,1125
+68,849,"Store","Contoso Houston No.3 Store","On","",22,500
+69,849,"Store","Contoso Houston No.4 Store","On","",17,460
+70,876,"Store","Contoso Midland Store","On","",25,700
+71,924,"Store","Contoso Russellville Store","On","",25,700
+72,879,"Store","Contoso Minden Store","On","",26,680
+73,929,"Store","Contoso Shreveport Store","On","",19,455
+74,872,"Store","Contoso Marshall Store","On","",33,560
+75,866,"Store","Contoso Longview Store","On","",47,1125
+76,798,"Store","Contoso Beaumont No.1 Store","On","",22,500
+77,897,"Store","Contoso Orange Store","On","",17,462
+78,798,"Store","Contoso Beaumont No.2 Store","On","",25,700
+79,579,"Store","Contoso Baytown Store","On","",26,680
+80,858,"Store","Contoso La Porte Store","On","",26,680
+81,793,"Store","Contoso Bacliff Store","On","",19,455
+82,939,"Store","Contoso Texas City Store","On","",33,560
+83,906,"Store","Contoso Pasadena Store","On","",47,1125
+85,933,"Store","Contoso Spring Store","On","",17,462
+86,791,"Store","Contoso Austin Store","On","",25,700
+87,925,"Store","Contoso San Antonio Store","On","",26,680
+88,453,"Store","Contoso Cedar Park Store","On","",19,455
+89,923,"Store","Contoso Round Rock Store","On","",33,560
+90,815,"Store","Contoso Dallas Store","On","",47,1125
+91,834,"Store","Contoso Georgetown Store","On","",22,500
+92,845,"Store","Contoso Hillsboro Store","On","",17,460
+93,787,"Store","Contoso Arlington Store","On","",25,700
+94,837,"Store","Contoso Grand Prairie Store","On","",25,700
+95,819,"Store","Contoso Desoto Store","On","",26,680
+96,919,"Store","Contoso Richardson Store","On","",19,455
+97,863,"Store","Contoso Lewisville Store","On","",33,560
+98,817,"Store","Contoso Denton Store","On","",47,1125
+99,831,"Store","Contoso Fort Worth Store","On","",22,500
+100,910,"Store","Contoso Plano Store","On","",17,462
+101,875,"Store","Contoso Miami No.1 Store","On","",17,462
+102,875,"Store","Contoso Miami No.2 Store","On","",25,700
+103,853,"Store","Contoso Jacksonville Store","On","",26,680
+104,937,"Store","Contoso Tallahassee No.1 Store","On","",19,455
+105,937,"Store","Contoso Tallahassee No.2 Store","On","",33,560
+107,926,"Store","Contoso Sebring Store","On","",22,500
+108,860,"Store","Contoso Lakeland Store","On","",17,460
+109,830,"Store","Contoso Fort Lauderdale Store","On","",25,700
+110,899,"Store","Contoso Orlando Store","On","",25,700
+111,938,"Store","Contoso Tampa Store","On","",26,680
+113,807,"Store","Contoso Cape Canaveral Store","On","",33,560
+114,782,"Store","Contoso Albany Store","On","",47,1125
+115,890,"Store","Contoso New York No.1 Store","On","",22,500
+116,922,"Store","Contoso Rochester No.1 Store","On","",17,462
+117,890,"Store","Contoso New York No.2 Store","On","",25,700
+118,936,"Store","Contoso Syracuse Store","On","",26,680
+120,911,"Store","Contoso Plattsburgh Store","On","",33,560
+121,804,"Store","Contoso Brooklyn Store","On","",47,1125
+122,902,"Store","Contoso Oswego Store","On","",22,500
+123,852,"Store","Contoso Ithaca Store","On","",17,460
+124,922,"Store","Contoso Rochester No.2 Store","On","",25,700
+125,916,"Store","Contoso Queens Store","On","",25,700
+126,823,"Store","Contoso Elmira Store","On","",26,680
+127,912,"Store","Contoso Poestenkill Store","On","",19,455
+128,943,"Store","Contoso Trenton No.1 Store","On","",33,560
+130,891,"Store","Contoso Newark No.1 Store","On","",22,500
+131,891,"Store","Contoso Newark No.2 Store","On","",17,462
+132,854,"Store","Contoso Jersey City Store","On","",25,700
+133,908,"Store","Contoso Paterson Store","On","",26,680
+134,814,"Store","Contoso Clifton Store","On","",26,680
+135,820,"Store","Contoso East Orange Store","On","",19,455
+136,907,"Store","Contoso Passaic Store","On","",33,560
+137,797,"Store","Contoso Bayonne Store","On","",47,1125
+138,945,"Store","Contoso Vineland Store","On","",22,500
+139,886,"Store","Contoso New Brunswick Store","On","",17,462
+140,842,"Store","Contoso Hackensack Store","On","",25,700
+141,788,"Store","Contoso Atlantic City Store","On","",26,680
+142,880,"Store","Contoso Montclair Store","On","",19,455
+143,847,"Store","Contoso Hoboken Store","On","",33,560
+144,882,"Store","Contoso Morristown Store","On","",47,1125
+145,808,"Store","Contoso Cape May Store","On","",22,500
+146,802,"Store","Contoso Boston Store","On","",17,460
+147,952,"Store","Contoso Worcester No.1 Store","On","",25,700
+149,885,"Store","Contoso New Bedford Store","On","",26,680
+150,789,"Store","Contoso Attleboro Store","On","",19,455
+151,868,"Store","Contoso Lowell Store","On","",33,560
+152,861,"Store","Contoso Leominster Store","On","",47,1125
+153,846,"Store","Contoso Hingham Store","On","",22,500
+154,917,"Store","Contoso Quincy Store","On","",17,462
+155,832,"Store","Contoso Framingham Store","On","",25,700
+156,449,"Store","Contoso Cambridge Store","On","",26,680
+157,931,"Store","Contoso Somerville Store","On","",26,680
+158,844,"Store","Contoso Haverhill Store","On","",19,455
+159,869,"Store","Contoso Lynn Store","On","",33,560
+160,895,"Store","Contoso Northampton Store","On","",47,1125
+161,848,"Store","Contoso Holyoke Store","On","",22,500
+163,826,"Store","Contoso Falmouth Store","On","",25,700
+164,914,"Store","Contoso Provincetown Store","On","",26,680
+165,883,"Store","Contoso Nantucket Store","On","",19,455
+166,795,"Store","Contoso Bangor Store","On","",33,560
+167,796,"Store","Contoso Bar Harbor Store","On","",47,1125
+168,855,"Store","Contoso Kennebunkport Store","On","",22,500
+169,862,"Store","Contoso Lewiston Store","On","",17,460
+170,900,"Store","Contoso Orono Store","On","",25,700
+171,932,"Store","Contoso South Portland Store","On","",25,700
+172,843,"Store","Contoso Hartford Store","On","",26,680
+173,801,"Store","Contoso Bridgeport Store","On","",19,455
+174,948,"Store","Contoso Waterbury Store","On","",33,560
+175,896,"Store","Contoso Old Saybrook Store","On","",47,1125
+176,816,"Store","Contoso Darien Store","On","",22,500
+177,888,"Store","Contoso New Haven Store","On","",17,462
+178,864,"Store","Contoso Litchfield County Store","On","",25,700
+179,889,"Store","Contoso New London Store","On","",26,680
+180,892,"Store","Contoso Norfolk Store","On","",26,680
+181,946,"Store","Contoso Virginia Beach Store","On","",19,455
+182,951,"Store","Contoso Winchester Store","On","",33,560
+183,784,"Store","Contoso Anchorage Store","On","",47,1125
+185,921,"Store","Contoso Roanoke Store","On","",17,462
+186,811,"Store","Contoso Charlottesville Store","On","",25,700
+187,833,"Store","Contoso Fredericksburg Store","On","",26,680
+188,873,"Store","Contoso Martinsville Store","On","",19,455
+189,841,"Store","Contoso Greenville Store","On","",33,560
+190,810,"Store","Contoso Charleston Store","On","",47,1125
+191,785,"Store","Contoso Annapolis Store","On","",22,500
+192,794,"Store","Contoso Baltimore Store","On","",17,460
+193,850,"Store","Contoso Howard Store","On","",25,700
+194,920,"Store","Contoso Ridgely Store","On","",25,700
+195,915,"Store","Contoso Queen Anne's County Store","On","",26,680
+196,905,"Store","Contoso Parkville Store","On","",19,455
+197,792,"Store","Contoso Back River Store","On","",33,560
+198,835,"Store","Contoso North Harford Store","On","",47,1125
+201,506,"Store","Contoso London Store","On","",17,462
+202,748,"Store","Contoso Edinburgh Store","On","",25,700
+203,751,"Store","Contoso Glasgow Store","On","",26,680
+204,576,"Store","Contoso York Store","On","",78,680
+205,742,"Store","Contoso Carlisle Store","On","",23,680
+206,761,"Store","Contoso Manchester Store","On","",11,680
+207,755,"Store","Contoso Lancashire Store","On","",36,680
+208,781,"Store","Contoso West Yorkshire Store","On","",90,680
+209,738,"Store","Contoso Baildon Store","On","",32,680
+210,743,"Store","Contoso Cheshire Store","On","",,680
+211,774,"Store","Contoso Stockport Store","On","",34,680
+212,651,"Store","Contoso Liverpool Store","On","",64,680
+213,753,"Store","Contoso Knotty Ash Store","On","",24,680
+214,501,"Store","Contoso Leeds Store","On","",25,680
+215,529,"Store","Contoso Paris Store","On","",12,680
+216,762,"Store","Contoso Marseille Store","On","",13,680
+217,759,"Store","Contoso Lyon Store","On","",15,680
+218,777,"Store","Contoso Toulouse Store","On","",23,680
+219,767,"Store","Contoso Nice Store","On","",32,680
+220,766,"Store","Contoso Nantes Store","On","",11,680
+221,775,"Store","Contoso Strasbourg Store","On","",10,630
+222,771,"Store","Contoso Roma Store","On","",43,490
+223,779,"Store","Contoso Venezia Store","On","",11,500
+224,749,"Store","Contoso Firenze Store","On","",45,500
+225,776,"Store","Contoso Torino Store","On","",24,500
+226,763,"Store","Contoso Milan Store","On","",23,500
+227,884,"Store","Contoso Naples Store","On","",13,500
+228,586,"Store","Contoso Berlin Store","On","",13,500
+230,754,"Store","Contoso koln No.2 Store","On","",25,500
+231,752,"Store","Contoso Hofheim Store","On","",25,500
+232,754,"Store","Contoso koln No.1 Store","On","",35,500
+233,756,"Store","Contoso Landstuhl Store","On","",21,500
+234,747,"Store","Contoso Dusseldorf Store","On","",24,500
+235,770,"Store","Contoso Ramstein Store","On","",15,500
+236,739,"Store","Contoso Baumholder Store","On","",28,500
+237,750,"Store","Contoso Giebelstadt Store","On","",15,500
+238,769,"Store","Contoso obamberg Store","On","",29,500
+239,765,"Store","Contoso Munich Store","On","",18,500
+240,736,"Store","Contoso Amsterdam Store","On","",26,680
+241,745,"Store","Contoso Copenhagen Store","On","",25,680
+242,773,"Store","Contoso Stockholm Store","On","",33,680
+243,760,"Store","Contoso Madrid Store","On","",35,680
+244,758,"Store","Contoso Ljubljana Store","On","",36,680
+245,741,"Store","Contoso Bucharest Store","On","",25,680
+246,740,"Store","Contoso Berne Store","On","",53,680
+247,780,"Store","Contoso Warsaw Store","On","",15,680
+248,778,"Store","Contoso Valletta Store","On","",42,680
+249,746,"Store","Contoso Dublin Store","On","",55,680
+250,737,"Store","Contoso Athens Store","On","",15,680
+251,728,"Store","Contoso Singapore Store","On","",27,480
+252,713,"Store","Contoso Canberra Store","On","",28,480
+253,558,"Store","Contoso Sydney No.1 Store","On","",20,480
+254,734,"Store","Contoso Yerevan Store","On","",15,480
+255,723,"Store","Contoso New Delhi Store","On","",29,480
+256,721,"Store","Contoso Mumbai Store","On","",35,480
+257,718,"Store","Contoso Kolkata Store","On","",35,480
+258,731,"Store","Contoso Thimphu No.1 Store","On","",35,480
+259,716,"Store","Contoso Hong Kong No.1 Store","On","",35,480
+260,730,"Store","Contoso Tehran No.1 Store","On","",35,480
+261,714,"Store","Contoso Damascus No.1 Store","On","",35,480
+262,709,"Store","Contoso Bangkok No.1 Store","On","",62,480
+263,764,"Store","Contoso Moscow  No.1 Store","On","",65,480
+264,708,"Store","Contoso Ashgabat No.1 Store","On","",68,480
+265,717,"Store","Contoso Islamabad No.1 Store","On","",71,480
+267,732,"Store","Contoso Tokyo No.1 Store","On","",68,480
+268,732,"Store","Contoso Tokyo No.2 Store","On","",68,480
+269,735,"Store","Contoso Yokohama Store","On","",77,480
+270,724,"Store","Contoso Osaka No.1 Store","On","",80,480
+271,722,"Store","Contoso Nagoya Store","On","",50,480
+272,725,"Store","Contoso Sapporo Store","On","",50,480
+273,719,"Store","Contoso Kyoto Store","On","",50,480
+274,726,"Store","Contoso Seoul Store","On","",50,480
+275,712,"Store","Contoso Busan Store","On","",50,480
+276,711,"Store","Contoso Bishkek Store","On","",50,480
+277,727,"Store","Contoso Shanghai No.1 Store","On","",95,480
+278,733,"Store","Contoso Urumqi Store","On","",50,480
+279,710,"Store","Contoso Beijing Store","On","",86,480
+280,715,"Store","Contoso Guangzhou Store","On","",131,480
+281,727,"Store","Contoso Shanghai No.2 Store","On","",95,480
+282,903,"Store","Contoso Ottawa No.1 Store","On","",95,480
+283,903,"Store","Contoso Ottawa No.2 Store","On","",95,480
+284,942,"Store","Contoso Toronto No.1 Store","On","",95,480
+285,942,"Store","Contoso Toronto No.2 Store","On","",95,480
+286,942,"Store","Contoso Toronto No.3 Store","On","",95,480
+287,881,"Store","Contoso Montreal No.1 Store","On","",95,480
+288,881,"Store","Contoso Montreal No.2 Store","On","",95,480
+289,562,"Store","Contoso Vancouver  No.1 Store","On","",95,480
+290,562,"Store","Contoso Vancouver  No.2 Store","On","",95,480
+291,598,"Store","Contoso Calgary  Store","On","",95,480
+292,731,"Store","Contoso Thimphu No.2 Store","On","",95,480
+293,716,"Store","Contoso Hong Kong No.2 Store","On","",95,480
+294,730,"Store","Contoso Tehran No.2 Store","On","",95,480
+295,714,"Store","Contoso Damascus No.2 Store","On","",95,480
+296,709,"Store","Contoso Bangkok No.2 Store","On","",95,480
+297,764,"Store","Contoso Moscow  No.2 Store","On","",95,480
+298,708,"Store","Contoso Ashgabat  No.2 Store","On","",95,480
+299,717,"Store","Contoso Islamabad  No.2 Store","On","",95,480
+300,558,"Store","Contoso Sydney  No.2 Store","On","",95,480
+301,724,"Store","Contoso Osaka No.2 Store","On","",95,480
+302,729,"Store","Contoso Taipei  Store","On","",95,480
+303,757,"Store","Contoso Lisbon Store","On","",95,480
+304,772,"Store","Contoso Saint Petersburg Store","On","",95,480
+305,768,"Store","Contoso Nizhny Novgorod Store","On","",95,480
+12,893,"Store","Contoso North Bend Store","Off","Relocation",19,455
+19,812,"Store","Contoso Cheney Store","Off","Store",19,455
+29,927,"Store","Contoso Sedalia Store","Off","Relocation",47,1125
+48,878,"Store","Contoso Milwaukee No.2 Store","Off","Relocation",25,700
+62,934,"Store","Contoso Stoughton Store","Off","Relocation",17,462
+84,851,"Store","Contoso Humble Store","Off","Relocation",22,500
+112,857,"Store","Contoso Key West Store","Off","Relocation",19,455
+119,805,"Store","Contoso Buffalo Store","Off","Store",19,455
+129,943,"Store","Contoso Trenton No.2 Store","Off","Relocation",47,1125
+148,952,"Store","Contoso Worcester No.2 Store","Off","Relocation",25,700
+162,909,"Store","Contoso Pittsfield Store","Off","Relocation",17,462
+184,783,"Store","Contoso Alexandria Store","Off","Relocation",22,500
+199,800,"Online","Contoso North America Online Store","On","",325,500
+200,894,"Catalog","Contoso Catalog Store","On","",120,462
+306,586,"Online","Contoso Europe Online Store","On","",7,1000
+307,710,"Online","Contoso Asia Online Store","On","",8,93800
+308,693,"Reseller","Contoso North America Reseller","On","",15,450
+309,529,"Reseller","Contoso Europe Reseller","On","",12,551
+310,710,"Reseller","Contoso Asia Reseller","On","",17,93800

@@ -1,0 +1,3 @@
+id,name,price,seller,fulfilled
+1,thinkpad,250,lenovo,True
+1,XPS 13,1000,dell,False

@@ -1,0 +1,10 @@
+{
+    "ingredients": [
+        "eggs",
+        "flour",
+        "sugar"
+    ],
+    "serving": 5,
+    "oven_needed?": true,
+    "origin": "Portugal"
+}
